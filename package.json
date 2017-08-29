@@ -1,0 +1,28 @@
+{
+  "name": "xcslib",
+  "version": "1.0.0",
+  "description": "A Node.JS Lib for controlling XCSOURCE lighting controllers supporting power up/down colour & brightness. With lockout modes and automatic schedules",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nevexo/XCSLib.git"
+  },
+  "keywords": [
+    "XCSSOURCE",
+    "Lighting",
+    "LEDs",
+    "Home",
+    "Automation",
+    "InternetOfThings",
+    "IOT"
+  ],
+  "author": "Nevexo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nevexo/XCSLib/issues"
+  },
+  "homepage": "https://github.com/nevexo/XCSLib#readme"
+}

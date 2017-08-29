@@ -1,0 +1,1 @@
+exports.drink = function(drink) {if(drink=="coke" || drink=="cocacola") {console.log('GTFO')}else{console.log('You are a great person. You will go far.')}}
